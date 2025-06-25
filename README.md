@@ -51,7 +51,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=vinoth12345678910&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinoth12345678910&theme=tokyonight&hide_border=false)
+![](https://streak-stats.demolab.com?user=vinoth12345678910&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth12345678910&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
